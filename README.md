@@ -1,10 +1,8 @@
-# Gut-Brain Axis Analytics
+# Gut-Brain Axis Analytics - CoFest 2026
 
 Reanalysis of Metabolomics Workbench study [ST000885](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST000885), the dataset behind:
 
 Soto, Herzog, Pacheco et al. "Gut microbiota modulate neurobehavior through changes in brain insulin sensitivity and metabolism." *Molecular Psychiatry* 23, 2287–2301 (2018). DOI: [10.1038/s41380-018-0086-5](https://doi.org/10.1038/s41380-018-0086-5)
-
-Original pitch: Padmashri Saravanan, CoFest 2026.
 
 ## What this is
 
