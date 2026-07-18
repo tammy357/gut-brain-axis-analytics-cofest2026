@@ -1,0 +1,11 @@
+mwtab
+pandas
+numpy
+scipy
+matplotlib
+plotly
+scikit-learn
+networkx
+requests
+metabolights-utils
+pyteomics
