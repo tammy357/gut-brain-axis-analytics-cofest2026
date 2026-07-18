@@ -124,10 +124,7 @@ metabolomicsworkbench.org.
 - **`citation_synthesis_behavior_insulin.md`** — the paper's own
   quantified behavioral and insulin-signaling results, laid out
   alongside the metabolite findings
-- **`day2_human_comparison.md`** — TMAO and guanidinoacetic acid
-  confirmed dynamic in a real human bariatric-surgery cohort, with the
-  MTBLS310 red-wine comparison partially checked but blocked on missing
-  metadata
+
 
 ## Known limitations
 
