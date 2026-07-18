@@ -16,10 +16,7 @@ supplementary figures, which contain behavioral, cytokine, and
 insulin-signaling results not present in the public metabolomics
 deposit.
 
-Full write-up: [`report.html`](report.html). Open it directly in a
-browser — every static figure is embedded, and the six interactive
-charts load Plotly from a CDN, so an internet connection is needed for
-those specifically.
+Full write-up: https://grand-palmier-de73f1.netlify.app/
 
 ## Main finding
 
